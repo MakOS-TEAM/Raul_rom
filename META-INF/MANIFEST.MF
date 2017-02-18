@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: lmZ0XCUnF3FATrHHu1X6YKVbDlM=
+
+Name: system.new.dat
+SHA1-Digest: OW7yG3MVGsRZzdc46DNBiouhndE=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: /k3edTf87y82dfuCaK3Rc031518=
+
+Name: install/bin/backuptool.sh
+SHA1-Digest: 9ZLm2fXuUgd6dAotEDuVAgOt9Bc=
+
+Name: config/configure.sh
+SHA1-Digest: 2ipXTKXecJNKcVBwlgaZSTtC3iY=
+
+Name: system.patch.dat
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: file_contexts
+SHA1-Digest: tJVzmEk6DmQzyZj0iaoHgI3NC/8=
+
+Name: system.transfer.list
+SHA1-Digest: Tdy5jMUgSqNR+2Qm+ptEBihY+EQ=
+
+Name: boot.img
+SHA1-Digest: BOnSAWJchOAZLtAhpvkyVsd/FHQ=
+
+Name: install/bin/backuptool.functions
+SHA1-Digest: mhg152PElCMHjRn+WhWtQqLMbBY=
+
